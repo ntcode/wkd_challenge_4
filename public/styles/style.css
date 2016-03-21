@@ -1,0 +1,18 @@
+body{
+  width: 700px;
+}
+p {
+  display: inline;
+}
+button{
+  float: right;;
+}
+.headerContainer{
+  background-color: orange;
+}
+#newTasksContainer {
+  background-color: grey;
+}
+#completedTasks {
+  background-color: green;
+}

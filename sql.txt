@@ -1,0 +1,6 @@
+CREATE TABLE task_table
+(
+id SERIAL PRIMARY KEY,
+task varchar(250) NOT NULL,
+complete boolean NOT NULL
+);
